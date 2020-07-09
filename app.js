@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded',() => {
         },
         {
             name:'samurai',
-            img:'images/samurai.png'
+            img:'images/Samurai.png'
         },
         {
             name:'skeleton',
@@ -38,7 +38,7 @@ document.addEventListener('DOMContentLoaded',() => {
         },
         {
             name:'samurai',
-            img:'images/samurai.png'
+            img:'images/Samurai.png'
         },
         {
             name:'skeleton',
